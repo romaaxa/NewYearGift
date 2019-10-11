@@ -1,0 +1,4 @@
+Candy  Haritosha  255  60  10,00  78  nut
+Waffle  Vitosha  700  67  12,50  vannila  yes
+Candy  Kuriez  10  62  12,00  78  nut
+Waffle Eldorado 900 70 20,70 chocolate yes
