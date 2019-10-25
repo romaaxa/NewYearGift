@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NGGift\NGGift\bin\Debug\NGGift.exe.config
+C:\Users\Admin\source\repos\NGGift\NGGift\bin\Debug\NGGift.exe
+C:\Users\Admin\source\repos\NGGift\NGGift\bin\Debug\NGGift.pdb
+C:\Users\Admin\source\repos\NGGift\NGGift\obj\Debug\NGGift.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NGGift\NGGift\obj\Debug\NGGift.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NGGift\NGGift\obj\Debug\NGGift.exe
+C:\Users\Admin\source\repos\NGGift\NGGift\obj\Debug\NGGift.pdb
